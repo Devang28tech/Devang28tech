@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devang28tech
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python & labrary's
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me just Dm at @devangdhote_28
   
